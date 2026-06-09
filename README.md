@@ -42,9 +42,9 @@ then run it and follow the prompts.
 
 | Platform | Download | Notes |
 | --- | --- | --- |
-| macOS — Apple Silicon (M1/M2/M3…) | `.dmg` (arm64) | Open the `.dmg` and drag the app into Applications. |
-| macOS — Intel | `.dmg` (x64) | Open the `.dmg` and drag the app into Applications. |
-| Windows | `.exe` | Run the installer and follow the setup wizard. |
+| macOS — Apple Silicon (M1/M2/M3…) | [**Download** →](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) the `*-arm64.dmg` | Open the `.dmg` and drag the app into Applications. |
+| macOS — Intel | [**Download** →](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) the `*.dmg` (without `-arm64`) | Open the `.dmg` and drag the app into Applications. |
+| Windows | [**Download** →](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) the `*-Setup-*.exe` | Run the installer and follow the setup wizard. |
 
 > Not sure which Mac you have? Click  → **About This Mac**. "Apple M…" means Apple Silicon;
 > "Intel" means the Intel build.
