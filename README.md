@@ -2,7 +2,7 @@
   <img src="logo.png" alt="Farmware" width="220" />
 </p>
 
-<h1 align="center">Timber Treatment App</h1>
+<h1 align="center">Timber Treatment Desktop App</h1>
 
 <p align="center">
   Record, manage and audit the chemical treatment of timber - all from your desktop.
