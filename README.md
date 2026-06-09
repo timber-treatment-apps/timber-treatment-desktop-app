@@ -52,5 +52,5 @@ then run it and follow the prompts.
 ---
 
 <p align="center">
-  <sub>© Farmware. All rights reserved.</sub>
+  <sub>© Farmware LTD. All rights reserved.</sub>
 </p>
