@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest">
-    <b>⬇&nbsp; Download the latest release</b>
+    <b>Download the latest release</b>
   </a>
 </p>
 
