@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest">
-    <b>Download the latest release</b>
+    <img src="https://img.shields.io/badge/Download-latest%20release-2ea44f?style=for-the-badge" alt="Download the latest release" />
   </a>
 </p>
 
@@ -36,15 +36,14 @@ digging through old paperwork.
 
 ## Download & install
 
-Grab the installer for your platform from the
-**[Releases page](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest)**,
-then run it and follow the prompts.
+Grab the installer for your platform from the releases page, then run it and follow the
+prompts.
 
 | Platform | Download | Notes |
 | --- | --- | --- |
-| macOS — Apple Silicon (M1/M2/M3…) | [**Download** →](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) the `*-arm64.dmg` | Open the `.dmg` and drag the app into Applications. |
-| macOS — Intel | [**Download** →](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) the `*.dmg` (without `-arm64`) | Open the `.dmg` and drag the app into Applications. |
-| Windows | [**Download** →](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) the `*-Setup-*.exe` | Run the installer and follow the setup wizard. |
+| macOS — Apple Silicon (M1/M2/M3…) | [<img src="https://img.shields.io/badge/Download-2ea44f?style=flat-square" alt="Download" />](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) the `*-arm64.dmg` | Open the `.dmg` and drag the app into Applications. |
+| macOS — Intel | [<img src="https://img.shields.io/badge/Download-2ea44f?style=flat-square" alt="Download" />](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) the `*.dmg` (without `-arm64`) | Open the `.dmg` and drag the app into Applications. |
+| Windows | [<img src="https://img.shields.io/badge/Download-2ea44f?style=flat-square" alt="Download" />](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) the `*-Setup-*.exe` | Run the installer and follow the setup wizard. |
 
 > Not sure which Mac you have? Click  → **About This Mac**. "Apple M…" means Apple Silicon;
 > "Intel" means the Intel build.
