@@ -41,9 +41,9 @@ prompts.
 
 | Platform | Download | Notes |
 | --- | --- | --- |
-| macOS — Apple Silicon (M1/M2/M3…) | [<img src="https://img.shields.io/badge/Download-2ea44f?style=flat-square" alt="Download" />](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) the `*-arm64.dmg` | Open the `.dmg` and drag the app into Applications. |
-| macOS — Intel | [<img src="https://img.shields.io/badge/Download-2ea44f?style=flat-square" alt="Download" />](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) the `*.dmg` (without `-arm64`) | Open the `.dmg` and drag the app into Applications. |
-| Windows | [<img src="https://img.shields.io/badge/Download-2ea44f?style=flat-square" alt="Download" />](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) the `*-Setup-*.exe` | Run the installer and follow the setup wizard. |
+| macOS — Apple Silicon (M1/M2/M3…) | [`*-arm64.dmg`](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) | Open the `.dmg` and drag the app into Applications. |
+| macOS — Intel | [`*.dmg`](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) (without `-arm64`) | Open the `.dmg` and drag the app into Applications. |
+| Windows | [`*-Setup-*.exe`](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) | Run the installer and follow the setup wizard. |
 
 > Not sure which Mac you have? Click  → **About This Mac**. "Apple M…" means Apple Silicon;
 > "Intel" means the Intel build.
