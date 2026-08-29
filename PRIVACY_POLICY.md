@@ -1,6 +1,6 @@
 # Privacy Policy — Timber Treatment App
 
-**Last updated:** [DATE]
+**Last updated:** 29 Aug 2026
 
 Timber Treatment App is published by Timber Treatment Apps ("we", "us").
 This policy explains how the app handles your information.
