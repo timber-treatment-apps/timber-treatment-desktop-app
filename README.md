@@ -1,17 +1,11 @@
 <p align="center">
-  <img src="logo.png" alt="Farmware" width="220" />
+  <img src="timber-treatment-apps.png" alt="Timber Treatment Apps" width="220" />
 </p>
 
-<h1 align="center">Timber Treatment Desktop App</h1>
+<h1 align="center">Timber Treatment (Desktop) App</h1>
 
 <p align="center">
   Record, manage and audit the chemical treatment of timber - all from your desktop.
-</p>
-
-<p align="center">
-  <a href="https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest">
-    <img src="https://img.shields.io/badge/Download-latest%20release-2ea44f?style=for-the-badge" alt="Download the latest release" />
-  </a>
 </p>
 
 ---
@@ -34,22 +28,12 @@ inspection comes around, that history is ready to hand: you can quickly demonstr
 correct treatments were applied to the correct stock, and answer auditor queries without
 digging through old paperwork.
 
-## Download & install
-
-Grab the installer for your platform from the releases page, then run it and follow the
-prompts.
-
-| Platform | Download | Notes |
-| --- | --- | --- |
-| macOS — Apple Silicon (M1/M2/M3…) | [`*-arm64.dmg`](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) | Open the `.dmg` and drag the app into Applications. |
-| macOS — Intel | [`*.dmg`](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) (without `-arm64`) | Open the `.dmg` and drag the app into Applications. |
-| Windows | [`*-Setup-*.exe`](https://github.com/farmware-ltd/timber-treatment-desktop-app/releases/latest) | Run the installer and follow the setup wizard. |
-
-> Not sure which Mac you have? Click  → **About This Mac**. "Apple M…" means Apple Silicon;
-> "Intel" means the Intel build.
-
 ---
 
 <p align="center">
-  <sub>© Farmware LTD. All rights reserved.</sub>
+  <a href="PRIVACY_POLICY.md">Privacy Policy</a>
+</p>
+
+<p align="center">
+  <sub>© Timber Treatment Apps. All rights reserved.</sub>
 </p>
