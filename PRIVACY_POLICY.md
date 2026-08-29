@@ -87,9 +87,6 @@ part of your normal business backup routine.
 We may update this policy from time to time. Any updated version will be posted
 at this address with a revised "Last updated" date.
 
-
-TODO: Privacy policy content to be added.
-
 ## Contact
 
 Questions about this policy or how your data is handled? Please open an issue at
