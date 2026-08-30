@@ -1,9 +1,8 @@
 # Privacy Policy — Timber Treatment App
 
-**Last updated:** 29 Aug 2026
+**Last updated:** 29th Aug 2026
 
-Timber Treatment App is published by Timber Treatment Apps ("we", "us").
-This policy explains how the app handles your information.
+This policy explains how Timber Treatment App ("we", "us") handles your information.
 
 ## The short version
 
@@ -86,14 +85,3 @@ part of your normal business backup routine.
 
 We may update this policy from time to time. Any updated version will be posted
 at this address with a revised "Last updated" date.
-
-## Contact
-
-Questions about this policy or how your data is handled? Please open an issue at
-[github.com/timber-treatment-apps/timber-treatment-desktop-app/issues](https://github.com/timber-treatment-apps/timber-treatment-desktop-app/issues).
-
----
-
-<p align="center">
-  <sub>© Timber Treatment Apps. All rights reserved.</sub>
-</p>
